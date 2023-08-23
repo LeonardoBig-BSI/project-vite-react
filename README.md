@@ -33,5 +33,6 @@ Ao contrário do CREATE-REACT-APP, o Vite é muito mais flexível, rápido e, ta
 
 <br><br>
 
-# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens![vite_react](https://github.com/LeonardoBig-BSI/project-vite-react/assets/84250017/3e76d175-c0c2-4e30-b70c-ddcbb7492b84)
+
 
